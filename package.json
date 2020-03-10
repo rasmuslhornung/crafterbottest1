@@ -1,0 +1,19 @@
+{
+  "name": "crafterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crafterbot.js",
+  "scripts": {
+
+    "start": "node crafterbot.js"
+
+  },
+  "author": "Rasmus Hornung",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "enmap": "^5.2.4",
+    "fs": "0.0.1-security",
+    "fs-extra": "^8.1.0"
+  }
+}
